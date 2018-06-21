@@ -1,0 +1,19 @@
+"*":
+  "atom-package-deps":
+    ignored: [
+      "ide-flowtype-coverage"
+    ]
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "oceanic-next"
+    ]
+  "exception-reporting":
+    userId: "5a0ac283-2bc1-46a9-8608-cc622b86d86d"
+  "ide-flowtype":
+    customFlowPath:
+      enabled: true
+    tryFlowBin: true
+  welcome:
+    showOnStartup: false

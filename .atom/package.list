@@ -1,0 +1,14 @@
+atom-ide-ui@0.12.0
+autocomplete-js-import@1.4.0
+busy-signal@1.4.3
+docblockr@0.13.7
+file-icons@2.1.21
+ide-flowtype@0.23.0
+ide-flowtype-coverage@1.9.2
+intentions@1.1.5
+language-babel@2.85.0
+linter-eslint@8.4.1
+linter-ui-default@1.7.1
+oceanic-next@1.0.0
+prettier-atom@0.54.0
+teletype@0.13.3
